@@ -1,0 +1,1 @@
+This is Oleksandr's first git project!
